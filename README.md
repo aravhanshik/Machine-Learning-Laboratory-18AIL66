@@ -20,7 +20,7 @@ appropriate dataset.
 
 7. Assuming a set of documents that need to be classified, use the naive Bayesian Classifier model to perform this task. Calculate the accuracy, precision, and recall for your data set.
 
-8. Construct aBayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set.
+8. Construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using standard Heart Disease Data Set.
 
 9. Demonstrate the working of EM algorithm to cluster a set of data stored in a .CSV file.
 
